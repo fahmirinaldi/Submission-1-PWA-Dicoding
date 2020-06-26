@@ -1,0 +1,60 @@
+#body-content{
+    margin-top: 50px;
+}
+.banner {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.banner .header-img {
+    width: 100%;
+}
+.card img {
+    width: auto;
+    height: 300px;
+}
+.card-store img {
+    width: 100%;
+    height: auto;
+}
+.profile i {
+    font-size: 12em;
+    margin: 40px 0;
+}
+.profile{
+    color: white;
+}
+
+/* Homepages */
+.h3home{
+    text-align: center;
+    color: white;
+    font-family: Pacifico;
+}
+.rowhome{
+    margin-top: 3%;
+}
+.sidenav{
+    background: #B96F2E;
+    font-family: Pacifico;
+}
+.topnav{
+    margin-right: 5%;
+    font-family:Pacifico;
+}
+.brand-logo{
+    font-family:Pacifico;
+}
+.nav-wrapper{
+    background: #B96F2E;
+}
+/* About_Us */
+.rowabout_us{
+    margin-top: 5%;
+}
+
+/* Catalogue */
+.cat2{
+    font-family: Pacifico;
+    color: white;
+}
